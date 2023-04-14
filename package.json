@@ -1,0 +1,14 @@
+{
+  "name": "mini-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "npm  start --prefix client",
+    "posts": "npm start --prefix posts",
+    "comments": "npm start --prefix comments"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
